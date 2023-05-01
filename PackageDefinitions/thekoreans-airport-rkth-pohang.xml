@@ -16,8 +16,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\thekoreans-airport-rkth-pohang\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\thekoreans-airport-rkth-pohang</OutputDir>
+			<AssetDir>PackageDefinitions\thekoreans-airport-rkth-pohang\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\thekoreans-airport-rkth-pohang\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="mymateriallibs">
 			<Type>MaterialLib</Type>
