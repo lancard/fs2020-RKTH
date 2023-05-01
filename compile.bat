@@ -1,1 +1,1 @@
-"c:\MSFS SDK\Tools\bin\fspackagetool.exe" RKPK.xml
+"c:\MSFS SDK\Tools\bin\fspackagetool.exe" RKTH.xml
