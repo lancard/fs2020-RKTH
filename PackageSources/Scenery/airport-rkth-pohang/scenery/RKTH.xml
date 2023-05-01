@@ -165,8 +165,8 @@
 		<TaxiwayPoint parentGroupID="1" groupIndex="1036" index="161" type="NORMAL" orientation="FORWARD" lat="35.98663877695799" lon="129.43437024950981"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="1037" index="162" type="NORMAL" orientation="FORWARD" lat="35.98662268370390" lon="129.43461611866951"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="1038" index="163" type="NORMAL" orientation="FORWARD" lat="35.98655562847853" lon="129.43479940295219"/>
-		<TaxiwayPoint parentGroupID="1" groupIndex="1039" index="164" type="NORMAL" orientation="FORWARD" lat="35.98639369010925" lon="129.43497955799103"/>
-		<TaxiwayPoint parentGroupID="1" groupIndex="1040" index="165" type="NORMAL" orientation="FORWARD" lat="35.98618984222412" lon="129.43502247333527"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="1039" index="164" type="NORMAL" orientation="FORWARD" lat="35.98641279578836" lon="129.43493381322523"/>
+		<TaxiwayPoint parentGroupID="1" groupIndex="1040" index="165" type="NORMAL" orientation="FORWARD" lat="35.98617909592611" lon="129.43499948790563"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="1041" index="166" type="NORMAL" orientation="FORWARD" lat="35.98805096000433" lon="129.43072512745857"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="1042" index="167" type="NORMAL" orientation="FORWARD" lat="35.98775021731853" lon="129.43179085850716"/>
 		<TaxiwayPoint parentGroupID="1" groupIndex="1043" index="168" type="NORMAL" orientation="FORWARD" lat="35.98788030445576" lon="129.43180158734322"/>
@@ -5473,7 +5473,7 @@
 				<Vertex lat="35.98773378878832" lon="129.43149581551552"/>
 				<Vertex lat="35.98779380321503" lon="129.43141624331474"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="1" groupIndex="64" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine parentGroupID="1" groupIndex="64" type="EDGE_LINE_SOLID_LIGHTED" trueAngle="NONE">
 				<Vertex lat="35.98779816180468" lon="129.43205282092094"/>
 				<Vertex lat="35.98712224513292" lon="129.43201303482056"/>
 				<Vertex lat="35.98672930151224" lon="129.43251281976700"/>
@@ -5490,7 +5490,7 @@
 				<Vertex lat="35.98453827202320" lon="129.43517535924911"/>
 				<Vertex lat="35.98453357815742" lon="129.43472608923912"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="1" groupIndex="65" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine parentGroupID="1" groupIndex="65" type="EDGE_LINE_SOLID_LIGHTED" trueAngle="NONE">
 				<Vertex lat="35.98451748490334" lon="129.43259820342064"/>
 				<Vertex lat="35.98523464053869" lon="129.43257808685303"/>
 				<Vertex lat="35.98551996052265" lon="129.43257272243500"/>
@@ -5523,7 +5523,7 @@
 				<Vertex lat="35.98682820796967" lon="129.43153828382492"/>
 				<Vertex lat="35.98683256655931" lon="129.43236798048019"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="1" groupIndex="70" type="EDGE_LINE_SOLID" trueAngle="NONE">
+			<PaintedLine parentGroupID="1" groupIndex="70" type="EDGE_LINE_SOLID_LIGHTED" trueAngle="NONE">
 				<Vertex lat="35.98626930266619" lon="129.43290486931801"/>
 				<Vertex lat="35.98604399710894" lon="129.43289637565613"/>
 				<Vertex lat="35.98590385168791" lon="129.43290486931801"/>
