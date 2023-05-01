@@ -1,0 +1,10 @@
+{
+  "package-name": "thekoreans-airport-rkth-pohang",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "RKTH",
+      "revision": 1
+    }
+  ]
+}

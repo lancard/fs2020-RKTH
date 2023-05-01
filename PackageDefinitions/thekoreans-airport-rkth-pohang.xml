@@ -19,6 +19,22 @@
 			<AssetDir>PackageDefinitions\thekoreans-airport-rkth-pohang\ContentInfo</AssetDir>
 			<OutputDir>ContentInfo\thekoreans-airport-rkth-pohang</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="mymateriallibs">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-rkth-pohang\materiallibs\</AssetDir>
+			<OutputDir>MaterialLibs\airport-rkth-pohang\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-rkth-pohang\modellib\</AssetDir>
+			<OutputDir>Scenery\airport-rkth-pohang\modellib\</OutputDir>
+		</AssetGroup>
 		<AssetGroup Name="scenery">
 			<Type>BGL</Type>
 			<Flags>
