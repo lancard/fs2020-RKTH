@@ -5018,7 +5018,7 @@
 				<Vertex lat="35.98695896565914" lon="129.41435426473618"/>
 				<Vertex lat="35.98694991320372" lon="129.41460415720940"/>
 			</PaintedLine>
-			<PaintedLine parentGroupID="1" groupIndex="63" type="EDGE_SERVICE_DASHED_LIGHTED" trueAngle="NONE">
+			<PaintedLine parentGroupID="1" groupIndex="63" type="EDGE_LINE_SOLID_LIGHTED" trueAngle="NONE">
 				<Vertex lat="35.98775926977396" lon="129.42653462290764"/>
 				<Vertex lat="35.98760973662138" lon="129.42640140652657"/>
 				<Vertex lat="35.98720505833626" lon="129.42637279629707"/>
